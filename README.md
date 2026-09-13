@@ -1,4 +1,4 @@
-# PROGRAMACION 1 
+## PROGRAMACION 1 
 Repositorio de prácticas y ejercicios de programación para estudiantes de desarrollo de software.
 
 ## Descripción
@@ -7,14 +7,14 @@ Este repositorio contiene ejercicios y proyectos prácticos de programación, cu
 ## Objetivo
 Fortalecer habilidades de programación a tráves de ejercicios prácticos y proyectos que simulan situaciones reales en el desarrolllo de software.
 
-##Tecnologías
+## Tecnologías
 - JavaScript
 - HTML / CSS
 - PHP
 - React
 - Bases de Datos (SQL)
 
-#PROGRAACIÓN/
+## PROGRAACIÓN/
 Ejercicios-basicos/
 proyectos/
 practicas/
